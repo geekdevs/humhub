@@ -1,7 +1,7 @@
 <?php
 return array (
   'Created at' => 'Дата/время создания',
-  'Created by' => 'Создано',
+  'Created by' => 'Создатель',
   'Description' => 'Описание',
   'ID' => 'Код',
   'Invalid space ID' => 'Некорректный код Пространства',
